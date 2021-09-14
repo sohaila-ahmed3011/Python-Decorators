@@ -1,5 +1,5 @@
 # SDP-Assignment1
-This is the solution for first assignment in SDwP course. This repository contains:
+This repository contains the solution for first assignment in SDwP course, which consists of a main file and four task files as follows:
 
 #main.py  contains sevral functions for testing the four other tasks. Each task is a decorator, so for usage in main testing uncomment the decorator you want to use.
 #task1.py contains function 'first_decorator' that calculates the execution time and number of calls for the argument function.
